@@ -12,3 +12,13 @@ Singleton Pattern    单例模式
 
 Prototype Pattern    多例模式
 
+Builder Pattern    创建者模式
+
+Abstract Factory Pattern 抽象工厂模式
+
+Bridge Pattern    桥接模式
+
+Strategy Pattern    策略模式
+
+
+ 
