@@ -20,5 +20,17 @@ Bridge Pattern    桥接模式
 
 Strategy Pattern    策略模式
 
+Selection Sort   选择排序
 
+Composite Pattern    递归结构模式（容器与内容的一致性）
  
+Decorator Pattern    装饰器模式
+
+Visitor Pattern    访问模式
+
+Chain Of Responsibility Pattern    推卸责任模式
+
+Observer Pattern    观察者模式
+
+Momento Pattern    保存对象状态模式
+
