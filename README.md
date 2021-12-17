@@ -34,3 +34,10 @@ Observer Pattern    观察者模式
 
 Momento Pattern    保存对象状态模式
 
+State Pattern    用类表示状态模式
+
+FlyWeight Pattern    共享对象模式
+
+Proxy Pattern    代理模式
+
+
